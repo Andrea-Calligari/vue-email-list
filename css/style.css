@@ -1,0 +1,10 @@
+#app{
+    text-align: center;
+}
+
+ul,ol,
+menu{
+    list-style-type: none; 
+    text-align: center;
+   
+}
